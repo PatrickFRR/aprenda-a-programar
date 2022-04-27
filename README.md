@@ -1,6 +1,6 @@
 # aprenda-a-programar
 
-Neste repositório encontra-se as atividades realizadas no curso **Aprenda a programar** oferecido pela **_Ituring**_ . 
+Neste repositório encontra-se as atividades realizadas no curso **Aprenda a programar** oferecido pela **_Ituring_** . 
 
 
 ## Aula/Conteúdo 
