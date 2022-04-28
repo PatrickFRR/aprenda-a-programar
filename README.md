@@ -9,7 +9,7 @@ Dia   | Aula/Conteúdo
 ----- | ------------------------------------
 Dia 1 | Primeiros passos e modo de pensar :alien:
 Dia 2 | Gerando o hábito de programar com o GitHub :sunglasses:
-Dia 3 | Aprendendo a programar (parte 1)
+Dia 3 | Aprendendo a programar (parte 1) :scroll:
 
 
 ## Tarefa  :computer:
